@@ -7,3 +7,9 @@ Esto servirá para que el usuario tome una decisión de que consumir con los pla
 <h3>Ejemplo:</h3>
 <p>En este ejemplo el usuario ingresa que desea consumir 120 calorías, la cual el sistema le arroja 6 combinaciones de platillos de acuerdo a las calorías que quiere consumir </p>
 ![](https://github.com/JesusMedinaDzib/SistemaExperto/blob/master/img_ejemplo.JPG)
+<br>
+<h3>Integrantes:</h3>
+<ul>
+ <li>Karina Chiguil Euan</li>
+<li>Jesus Alberto Medina Dzib</li>
+</ul>
