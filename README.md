@@ -5,7 +5,6 @@ Esto servirá para que el usuario tome una decisión de que consumir con los pla
  </p>
 <br>
 <h3>Ejemplo:</h3>
-<p>En este ejemplo el usuario ingresa que desea consumir 120 calorías, la cual el sistema le arroja 6 combinaciones de platillos de acuerdo a las calorías que quiere consumir </p><br>
-![img](https://github.com/JesusMedinaDzib/SistemaExperto/blob/master/img_ejemplo.JPG)
-![](https://github.com/JesusMedinaDzib/congreso/blob/master/view/avance3/avance3_admin.PNG)
-
+<p>En este ejemplo el usuario ingresa que desea consumir 120 calorías, la cual el sistema le arroja 6 combinaciones de platillos de acuerdo a las calorías que quiere consumir </p>
+<br>
+![](https://github.com/JesusMedinaDzib/SistemaExperto/blob/master/img_ejemplo.JPG)
